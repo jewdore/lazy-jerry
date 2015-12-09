@@ -7,3 +7,4 @@ chrome extension
 使用
 安装完成之后在浏览器的右上方可以看到lazy jerry的图标
 点击便可以将该浏览器窗口打开的所有tab页面的title ，url列举出来
+ 
